@@ -1,0 +1,91 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/MECHANICAL/1988 - M490M - 490-04-026 - STEREO INPUT MODULE MODULE LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/9e8a6baa78ad13b0.svg",
+ "sheet": {
+  "number": "490-04-026",
+  "title": "Stereo Input Module Module Layout",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1390],
+  "mm": [431.8, 300.1],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [28.7, 0.0, 431.8, 300.1],
+ "outlines": {
+  "line": {"rings": 619, "straight": {"n": 5101, "mm": 13561.8}, "curved": {"n": 823, "mm": 1317.2}},
+  "text": {"rings": 98, "straight": {"n": 689, "mm": 739.5}, "curved": {"n": 171, "mm": 248.2}},
+  "tb": {"rings": 169, "straight": {"n": 1181, "mm": 2576.9}, "curved": {"n": 284, "mm": 551.4}}
+ },
+ "circles": [
+  {"c": [243.6, 35.9], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [242.4, 211.3], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [242.3, 262.7], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [243.6, 52.9], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [242.2, 237.4], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [243.6, 63.0], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [243.3, 82.7], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [42.9, 266.1], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [43.2, 124.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [43.3, 179.9], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [43.4, 38.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [102.4, 27.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [56.2, 270.1], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [146.3, 246.9], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [107.3, 167.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [380.5, 20.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [56.6, 167.2], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [146.3, 277.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [157.1, 263.4, 160.6, 276.1], "w": 3.5, "h": 12.7, "from": "ring"},
+  {"mm": [41.7, 264.9, 44.0, 267.5], "w": 2.4, "h": 2.6, "from": "ring"},
+  {"mm": [147.7, 250.0, 151.3, 262.8], "w": 3.7, "h": 12.7, "from": "ring"},
+  {"mm": [157.1, 249.8, 160.6, 262.5], "w": 3.5, "h": 12.7, "from": "ring"},
+  {"mm": [147.7, 231.0, 151.3, 243.8], "w": 3.7, "h": 12.7, "from": "ring"},
+  {"mm": [157.2, 230.8, 160.6, 243.5], "w": 3.5, "h": 12.7, "from": "ring"},
+  {"mm": [134.7, 229.9, 139.0, 233.4], "w": 4.3, "h": 3.5, "from": "ring"},
+  {"mm": [143.8, 205.3, 148.5, 217.8], "w": 4.7, "h": 12.5, "from": "ring"},
+  {"mm": [114.5, 122.6, 117.0, 125.0], "w": 2.5, "h": 2.4, "from": "ring"},
+  {"mm": [96.9, 119.6, 101.0, 122.4], "w": 4.1, "h": 2.8, "from": "ring"},
+  {"mm": [120.0, 29.4, 141.8, 41.9], "w": 21.8, "h": 12.5, "from": "ring"},
+  {"mm": [101.0, 26.3, 103.4, 28.7], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [352.6, 4.7, 355.2, 8.0], "w": 2.6, "h": 3.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [298.8, 286.9, 305.7, 290.3], "text": "WBS"},
+   {"mm": [111.8, 212.7, 122.0, 214.8], "text": "HOUYTLD"},
+   {"mm": [311.8, 201.0, 320.8, 204.8], "text": "MODE"},
+   {"mm": [299.9, 90.9, 304.2, 99.5], "text": "50"},
+   {"mm": [315.4, 61.7, 321.9, 65.1], "text": "OFF"},
+   {"mm": [355.4, 34.3, 431.4, 39.8], "text": "WBS WARD-BECK SYBTEME"},
+   {"mm": [383.4, 23.5, 402.4, 28.3], "text": "M490m"},
+   {"mm": [402.4, 17.5, 424.5, 22.8], "text": "MODULE"},
+   {"mm": [371.1, 12.1, 415.8, 17.6], "text": "MODULE LAYOUT"},
+   {"mm": [356.0, 3.2, 389.3, 10.2], "text": "490-04-026"},
+   {"mm": [422.3, 4.1, 431.6, 9.6], "text": "ISS"}
+  ]
+ },
+ "title_block": {
+  "mm": [290.1, 28.3, 431.8, 296.1],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "MODE", "50", "OFF", "WBS WARD-BECK SYBTEME"]
+ },
+ "dots": [{"c": [311.8, 16.6], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout 490-04-026, size B (assumed) 432 × 300 mm, 2000 × 1390 px traced (0.216 mm/px)",
+  "- **Ink extent:** 29–432 mm across, 0–300 mm up",
+  "- **Outlines:** line 619 rings, 5,101 straight (13,562 mm) / 823 curved (1,317 mm); text 98 rings, 689 straight (740 mm) / 171 curved (248 mm); tb 169 rings, 1,181 straight (2,577 mm) / 284 curved (551 mm)",
+  "- **Circles and arcs:** 18 circles, 0 arcs; largest r 3.6 @ (243.6, 35.9), r 3.6 @ (242.4, 211.3), r 3.6 @ (242.3, 262.7), r 3.6 @ (243.6, 52.9)",
+  "- **Closed boxes:** 13",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 13 in 11 lines: WBS · HOUYTLD · MODE · 50 · OFF · WBS WARD-BECK SYBTEME · M490m · MODULE · MODULE LAYOUT · 490-04-026 · ISS",
+  "- **Title block:** (290, 28)–(432, 296) mm: WBS · MODE · 50 · OFF · WBS WARD-BECK SYBTEME"
+ ]
+}

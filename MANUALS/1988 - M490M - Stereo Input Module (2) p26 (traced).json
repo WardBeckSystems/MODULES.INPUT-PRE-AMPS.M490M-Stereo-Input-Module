@@ -1,0 +1,93 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module (2).pdf",
+ "page": 26,
+ "version": 1,
+ "trace": "_traces/813af599e6ad3146-p26.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "26", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.6, 55.5, 338.6, 414.7],
+ "outlines": {
+  "line": {"rings": 320, "straight": {"n": 3742, "mm": 7803.4}, "curved": {"n": 668, "mm": 1066.6}},
+  "text": {"rings": 402, "straight": {"n": 3250, "mm": 4458.4}, "curved": {"n": 724, "mm": 1182.5}}
+ },
+ "circles": [
+  {"c": [234.7, 216.0], "r": 4.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [235.7, 305.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [230.9, 300.6], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [37.8, 93.0], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [235.6, 285.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [231.3, 289.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8}
+ ],
+ "boxes": [
+  {"mm": [220.8, 236.2, 249.3, 355.6], "w": 28.5, "h": 119.4, "from": "ring", "words": ["MODE", "SELECT"]},
+  {"mm": [294.7, 337.2, 308.7, 351.3], "w": 14.0, "h": 14.0, "from": "ring"},
+  {"mm": [294.1, 240.7, 308.7, 254.8], "w": 14.6, "h": 14.0, "from": "ring"},
+  {"mm": [188.7, 121.4, 210.7, 193.2], "w": 22.0, "h": 71.8, "from": "ring", "words": ["PGM/", "CUE", "CTL", "LOGIC"]}
+ ],
+ "text": {
+  "words": 52,
+  "lines": [
+   {"mm": [138.2, 348.7, 159.6, 353.7], "text": "INSERT"},
+   {"mm": [227.3, 344.6, 243.5, 349.6], "text": "MODE"},
+   {"mm": [56.1, 340.5, 71.9, 345.5], "text": "LEFT"},
+   {"mm": [223.7, 338.1, 245.9, 343.1], "text": "SELECT"},
+   {"mm": [76.2, 324.5, 112.5, 331.0], "text": "~-----i7Klt-"},
+   {"mm": [60.2, 324.9, 71.9, 330.0], "text": "EFT"},
+   {"mm": [176.0, 314.1, 216.5, 319.2], "text": "SENSI IV ITY"},
+   {"mm": [185.2, 307.0, 208.8, 312.0], "text": "(20 dB)"},
+   {"mm": [15.8, 298.2, 30.0, 303.2], "text": "LINE"},
+   {"mm": [13.6, 291.5, 34.5, 296.5], "text": "INPUTS"},
+   {"mm": [22.5, 285.0, 33.5, 290.0], "text": "dBm"},
+   {"mm": [10.6, 278.5, 35.2, 283.5], "text": "+10 dBm"},
+   {"mm": [9.5, 271.8, 18.4, 276.9], "text": "600"},
+   {"mm": [137.7, 252.0, 159.1, 257.0], "text": "INSERT"},
+   {"mm": [111.0, 223.9, 133.4, 252.4], "text": "It"},
+   {"mm": [174.9, 218.3, 215.7, 223.3], "text": "SENSITIVITY"},
+   {"mm": [32.0, 211.4, 50.1, 216.4], "text": "INPUT"},
+   {"mm": [187.2, 211.4, 207.9, 216.4], "text": "20 dB)"},
+   {"mm": [25.0, 206.4, 55.9, 211.4], "text": "SELECTOR"},
+   {"mm": [26.8, 199.5, 54.4, 204.5], "text": "CONTROL"},
+   {"mm": [58.7, 186.1, 71.2, 191.1], "text": "COM"},
+   {"mm": [62.6, 171.4, 70.6, 176.5], "text": "ON"},
+   {"mm": [23.3, 163.0, 71.7, 168.0], "text": "EXTERNAL OFF"},
+   {"mm": [192.8, 163.9, 206.6, 168.9], "text": "PGM/"},
+   {"mm": [23.3, 157.4, 54.6, 162.4], "text": "CONTROLS"},
+   {"mm": [194.7, 140.1, 278.5, 162.4], "text": "CUE -~CU~_~"},
+   {"mm": [60.5, 149.2, 71.9, 154.2], "text": "CUE"},
+   {"mm": [195.0, 150.5, 205.8, 156.5], "text": "CTL"},
+   {"mm": [190.9, 144.2, 208.8, 149.3], "text": "LOGIC"},
+   {"mm": [104.9, 139.0, 139.7, 144.1], "text": "CH ON*-"},
+   {"mm": [144.0, 126.9, 177.9, 132.0], "text": "CH OFF¥-"},
+   {"mm": [41.2, 113.1, 71.9, 118.2], "text": "ON/START"},
+   {"mm": [27.9, 102.1, 71.0, 107.2], "text": "TIMER RESET"},
+   {"mm": [148.8, 87.4, 164.7, 101.6], "text": "-<iY"},
+   {"mm": [36.1, 89.4, 67.6, 94.4], "text": "OFF TALL"},
+   {"mm": [39.5, 79.9, 69.7, 84.9], "text": "OFF /STOP"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–339 mm across, 56–415 mm up",
+  "- **Outlines:** line 320 rings, 3,742 straight (7,803 mm) / 668 curved (1,067 mm); text 402 rings, 3,250 straight (4,458 mm) / 724 curved (1,182 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 4.6 @ (234.7, 216.0), r 2.3 @ (235.7, 305.3), r 2.2 @ (230.9, 300.6), r 2.1 @ (37.8, 93.0)",
+  "- **Closed boxes:** 4; named: MODE SELECT; PGM/ CUE CTL LOGIC",
+  "- **Words (OCR):** 52 in 40 lines: INSERT · MODE · LEFT · SELECT · ~-----i7Klt- · EFT · SENSI IV ITY · (20 dB) · LINE · INPUTS · dBm · +10 dBm"
+ ]
+}

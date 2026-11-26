@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module (2).pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/813af599e6ad3146-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 15.5, 327.5, 374.2],
+ "outlines": {
+  "line": {"rings": 298, "straight": {"n": 3721, "mm": 6978.0}, "curved": {"n": 623, "mm": 946.3}},
+  "text": {"rings": 184, "straight": {"n": 1278, "mm": 1559.4}, "curved": {"n": 295, "mm": 462.2}},
+  "tb": {"rings": 13, "straight": {"n": 148, "mm": 159.2}, "curved": {"n": 35, "mm": 61.8}}
+ },
+ "circles": [
+  {"c": [34.2, 356.7], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [22.5, 153.3], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [33.5, 259.8], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [23.5, 337.5, 37.6, 351.8], "w": 14.0, "h": 14.3, "from": "ring"},
+  {"mm": [59.4, 276.7, 73.4, 291.0], "w": 14.0, "h": 14.3, "from": "ring"},
+  {"mm": [23.1, 240.9, 37.6, 255.0], "w": 14.5, "h": 14.1, "from": "ring"},
+  {"mm": [59.2, 175.5, 73.5, 190.0], "w": 14.2, "h": 14.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [187.0, 355.8, 192.8, 361.1], "text": "Pl"},
+   {"mm": [261.9, 348.5, 277.2, 353.7], "text": "LEFT"},
+   {"mm": [200.6, 340.3, 207.7, 345.5], "text": "P2"},
+   {"mm": [261.7, 333.3, 277.2, 338.6], "text": "LEFT"},
+   {"mm": [265.8, 280.2, 280.9, 285.5], "text": "LEFT"},
+   {"mm": [262.1, 251.5, 281.3, 257.3], "text": "RIGHT"},
+   {"mm": [262.1, 236.4, 281.5, 242.2], "text": "RIGHT"},
+   {"mm": [266.4, 179.4, 284.8, 185.2], "text": "RI GHT"},
+   {"mm": [269.4, 154.8, 276.8, 160.8], "text": "ON"},
+   {"mm": [263.6, 148.5, 278.3, 153.8], "text": "TALL"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [210.7, 57.6, 326.0, 66.5], "text": "[\\NBS] WARD-BECK SYSTEMS"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [256.5, 42.7, 279.8, 48.3], "text": "M490M"},
+   {"mm": [226.5, 35.0, 310.0, 40.3], "text": "STEREO INPUT MODULE"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [248.5, 27.0, 292.5, 32.3], "text": "FUNCTIONAL"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [218.7, 14.7, 263.4, 20.0], "text": "490 -01 -013"},
+   {"mm": [311.3, 15.1, 321.5, 20.4], "text": "ISS"}
+  ]
+ },
+ "title_block": {"mm": [240.9, 50.3, 332.9, 71.8], "from": "title-block words (training set)", "text": ["ps", "[\\NBS] WARD-BECK SYSTEMS", "BS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–328 mm across, 16–374 mm up",
+  "- **Outlines:** line 298 rings, 3,721 straight (6,978 mm) / 623 curved (946 mm); text 184 rings, 1,278 straight (1,559 mm) / 295 curved (462 mm); tb 13 rings, 148 straight (159 mm) / 35 curved (61.8 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.1 @ (34.2, 356.7), r 2.1 @ (22.5, 153.3), r 2.0 @ (33.5, 259.8)",
+  "- **Closed boxes:** 4",
+  "- **Words (OCR):** 27 in 20 lines: Pl · LEFT · P2 · LEFT · LEFT · RIGHT · RIGHT · RI GHT · ON · TALL · ps · [\\NBS] WARD-BECK SYSTEMS",
+  "- **Title block:** (241, 50)–(333, 72) mm: ps · [\\NBS] WARD-BECK SYSTEMS · BS"
+ ]
+}

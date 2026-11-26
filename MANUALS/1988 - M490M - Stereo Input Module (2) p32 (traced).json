@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module (2).pdf",
+ "page": 32,
+ "version": 1,
+ "trace": "_traces/813af599e6ad3146-p32.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "32", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.2, 17.6, 313.7, 424.5],
+ "outlines": {
+  "line": {"rings": 108, "straight": {"n": 1466, "mm": 3773.1}, "curved": {"n": 254, "mm": 447.0}},
+  "text": {"rings": 8, "straight": {"n": 43, "mm": 79.3}, "curved": {"n": 15, "mm": 26.9}}
+ },
+ "circles": [
+  {"c": [163.1, 244.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [117.5, 231.2], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [50.5, 420.6, 53.3, 422.7], "w": 2.8, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [29.1, 418.0, 125.2, 423.5], "text": "WA O·B ECK SYSTE MS"},
+   {"mm": [129.3, 418.0, 143.8, 423.7], "text": "LTO"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–314 mm across, 18–424 mm up",
+  "- **Outlines:** line 108 rings, 1,466 straight (3,773 mm) / 254 curved (447 mm); text 8 rings, 43 straight (79.3 mm) / 15 curved (26.9 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.1 @ (163.1, 244.6), r 2.1 @ (117.5, 231.2)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 10 in 6 lines: WA O·B ECK SYSTE MS · LTO · ps · BS · tp · ht"
+ ]
+}

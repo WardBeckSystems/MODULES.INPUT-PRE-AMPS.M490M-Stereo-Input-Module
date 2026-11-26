@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module.pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/475a036da9e8b614-p25.svg",
+ "sheet": {
+  "number": "B 490-04-026",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 10.3, 329.5, 417.6],
+ "outlines": {
+  "line": {"rings": 45, "straight": {"n": 1251, "mm": 4446.0}, "curved": {"n": 162, "mm": 422.1}},
+  "text": {"rings": 143, "straight": {"n": 1192, "mm": 1406.4}, "curved": {"n": 354, "mm": 545.4}},
+  "tb": {"rings": 153, "straight": {"n": 1472, "mm": 3632.0}, "curved": {"n": 324, "mm": 723.0}}
+ },
+ "circles": [
+  {"c": [57.8, 55.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [57.9, 79.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [56.4, 375.2], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [57.6, 121.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [58.0, 93.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [56.7, 302.9], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [56.4, 339.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [154.9, 27.7], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [136.7, 409.3, 145.7, 413.7], "text": "WBS"},
+   {"mm": [161.5, 409.3, 173.8, 413.7], "text": "M490m"},
+   {"mm": [154.6, 288.4, 167.5, 293.7], "text": "MODE"},
+   {"mm": [245.5, 193.9, 255.2, 201.6], "text": "12"},
+   {"mm": [166.9, 193.0, 171.2, 199.5], "text": "15"},
+   {"mm": [138.4, 181.6, 143.8, 188.0], "text": "20"},
+   {"mm": [165.8, 182.2, 171.2, 188.7], "text": "20"},
+   {"mm": [138.4, 167.1, 143.8, 173.1], "text": "30"},
+   {"mm": [165.8, 167.1, 171.2, 173.1], "text": "30"},
+   {"mm": [138.4, 133.6, 143.8, 145.6], "text": "50"},
+   {"mm": [165.8, 134.1, 171.2, 145.3], "text": "60"},
+   {"mm": [245.9, 122.4, 254.5, 129.4], "text": "13"},
+   {"mm": [160.0, 92.0, 168.6, 97.5], "text": "OFF"},
+   {"mm": [217.4, 52.9, 243.3, 59.9], "text": "WBS"},
+   {"mm": [249.4, 53.5, 329.5, 60.3], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [151.8, 37.6, 158.3, 41.4], "text": "OM"},
+   {"mm": [257.4, 37.1, 283.7, 44.1], "text": "M490m"},
+   {"mm": [225.4, 29.1, 280.7, 36.8], "text": "STEREO INPUT"},
+   {"mm": [283.7, 28.5, 315.0, 36.2], "text": "MODULE"},
+   {"mm": [239.6, 20.5, 303.1, 28.7], "text": "MODULE LAYOUT"},
+   {"mm": [212.0, 9.1, 264.9, 17.2], "text": "B 490-04-026"},
+   {"mm": [312.4, 9.7, 330.8, 16.7], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {
+  "mm": [130.0, 44.3, 336.1, 422.3],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "M490m", "MODE", "12", "15", "20", "20", "30", "30", "50", "60", "13", "OFF", "WBS", "WARD-BECK SYSTEMS"]
+ },
+ "dots": [{"c": [57.9, 78.5], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout B 490-04-026, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–330 mm across, 10–418 mm up",
+  "- **Outlines:** line 45 rings, 1,251 straight (4,446 mm) / 162 curved (422 mm); text 143 rings, 1,192 straight (1,406 mm) / 354 curved (545 mm); tb 153 rings, 1,472 straight (3,632 mm) / 324 curved (723 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 5.0 @ (57.8, 55.4), r 5.0 @ (57.9, 79.4), r 5.0 @ (56.4, 375.2), r 5.0 @ (57.6, 121.4)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 24 in 22 lines: WBS · M490m · MODE · 12 · 15 · 20 · 20 · 30 · 30 · 50 · 60 · 13",
+  "- **Title block:** (130, 44)–(336, 422) mm: WBS · M490m · MODE · 12 · 15 · 20 · 20 · 30 · 30 · 50 · 60 · 13 · OFF · WBS · WARD-BECK SYSTEMS"
+ ]
+}

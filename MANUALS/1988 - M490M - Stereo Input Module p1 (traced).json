@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/475a036da9e8b614-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 17.5, 337.2, 412.7],
+ "outlines": {
+  "line": {"rings": 34, "straight": {"n": 696, "mm": 3232.0}, "curved": {"n": 77, "mm": 117.1}},
+  "text": {"rings": 204, "straight": {"n": 1794, "mm": 2467.8}, "curved": {"n": 453, "mm": 707.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [118.7, 403.7, 282.2, 412.4], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [51.2, 394.7, 284.6, 409.3], "text": "WBS 841 PaOGAESS AVENUE SCARBOROUGH; ONTARIO M1h2xa"},
+   {"mm": [117.9, 392.7, 169.7, 398.0], "text": "FAX: 416/438-3865"},
+   {"mm": [211.8, 392.7, 284.6, 398.0], "text": "TELEPHONE: 416/438-6550"},
+   {"mm": [153.3, 235.3, 183.5, 244.0], "text": "M49OM"},
+   {"mm": [116.2, 216.8, 220.2, 226.4], "text": "STEREO INPUT MODULE"},
+   {"mm": [224.1, 49.2, 275.1, 56.4], "text": "February 24. 1992"},
+   {"mm": [43.2, 16.8, 93.9, 23.3], "text": "MW91OOI /MAOOM WP"}
+  ]
+ },
+ "title_block": {
+  "mm": [44.5, 385.9, 262.5, 421.0],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD", "WBS 841 PaOGAESS AVENUE SCARBOROUGH; ONTARIO M1h2xa", "FAX: 416/438-3865", "TELEPHONE: 416/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–337 mm across, 18–413 mm up",
+  "- **Outlines:** line 34 rings, 696 straight (3,232 mm) / 77 curved (117 mm); text 204 rings, 1,794 straight (2,468 mm) / 453 curved (708 mm)",
+  "- **Words (OCR):** 13 in 8 lines: WARD-BECK SYSTEMS LTD · WBS 841 PaOGAESS AVENUE SCARBOROUGH; ONTARIO M1h2xa · FAX: 416/438-3865 · TELEPHONE: 416/438-6550 · M49OM · STEREO INPUT MODULE · February 24. 1992 · MW91OOI /MAOOM WP",
+  "- **Title block:** (44, 386)–(262, 421) mm: WARD-BECK SYSTEMS LTD · WBS 841 PaOGAESS AVENUE SCARBOROUGH; ONTARIO M1h2xa · FAX: 416/438-3865 · TELEPHONE: 416/438-6550"
+ ]
+}

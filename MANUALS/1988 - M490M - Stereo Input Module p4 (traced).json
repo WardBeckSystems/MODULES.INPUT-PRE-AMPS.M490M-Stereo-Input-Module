@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/475a036da9e8b614-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 338.5, 423.6],
+ "outlines": {
+  "line": {"rings": 46, "straight": {"n": 774, "mm": 3243.6}, "curved": {"n": 123, "mm": 189.2}},
+  "text": {"rings": 236, "straight": {"n": 1811, "mm": 2126.3}, "curved": {"n": 506, "mm": 809.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [32.4, 417.1, 150.5, 424.1], "text": "WARD-BECK systems LTD;"},
+   {"mm": [139.7, 372.4, 197.3, 380.1], "text": "TECHNICAL DATA"},
+   {"mm": [117.7, 357.7, 220.6, 366.4], "text": "M49om STEREO INPUT MODULE"},
+   {"mm": [46.9, 331.4, 122.4, 339.8], "text": "Ambient Temperature:"},
+   {"mm": [162.1, 331.2, 217.4, 339.3], "text": "degrees Celsius:"},
+   {"mm": [141.0, 332.7, 148.5, 338.0], "text": "to"},
+   {"mm": [151.1, 332.5, 159.8, 339.0], "text": "60"},
+   {"mm": [46.6, 318.5, 87.9, 326.4], "text": "Dimensions:"},
+   {"mm": [133.9, 317.8, 222.8, 325.6], "text": "1.60\" wide 14.15\" high"},
+   {"mm": [233.6, 317.6, 271.2, 325.4], "text": "6.50\" deep"},
+   {"mm": [133.2, 312.0, 158.3, 318.9], "text": "(41 mm"},
+   {"mm": [169.5, 312.0, 194.5, 318.5], "text": "360 mm"},
+   {"mm": [205.5, 312.0, 230.8, 318.5], "text": "165 mm"},
+   {"mm": [46.9, 299.0, 59.4, 305.5], "text": "Wei"},
+   {"mm": [57.9, 297.7, 73.4, 306.4], "text": "gh:"},
+   {"mm": [140.8, 298.4, 170.6, 304.9], "text": "ibs 02"},
+   {"mm": [173.8, 297.3, 224.5, 305.3], "text": "{i.06 kg) nei."},
+   {"mm": [161.9, 16.2, 173.8, 22.7], "text": "1-2"}
+  ]
+ },
+ "title_block": {"mm": [25.6, 408.6, 157.3, 431.8], "from": "title-block words (training set)", "text": ["WARD-BECK systems LTD;"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 0–424 mm up",
+  "- **Outlines:** line 46 rings, 774 straight (3,244 mm) / 123 curved (189 mm); text 236 rings, 1,811 straight (2,126 mm) / 506 curved (810 mm)",
+  "- **Words (OCR):** 34 in 18 lines: WARD-BECK systems LTD; · TECHNICAL DATA · M49om STEREO INPUT MODULE · Ambient Temperature: · degrees Celsius: · to · 60 · Dimensions: · 1.60\" wide 14.15\" high · 6.50\" deep · (41 mm · 360 mm",
+  "- **Title block:** (26, 409)–(157, 432) mm: WARD-BECK systems LTD;"
+ ]
+}

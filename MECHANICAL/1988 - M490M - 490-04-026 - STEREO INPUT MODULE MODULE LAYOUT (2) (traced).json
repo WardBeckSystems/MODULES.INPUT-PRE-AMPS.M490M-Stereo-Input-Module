@@ -1,0 +1,75 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/MECHANICAL/1988 - M490M - 490-04-026 - STEREO INPUT MODULE MODULE LAYOUT (2).jpg",
+ "version": 1,
+ "trace": "_traces/d70fe5222b642e47.svg",
+ "sheet": {
+  "number": "490-04-026",
+  "title": "Stereo Input Module Module Layout",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 10.3, 329.5, 417.3],
+ "outlines": {
+  "line": {"rings": 35, "straight": {"n": 1258, "mm": 4461.4}, "curved": {"n": 180, "mm": 451.0}},
+  "text": {"rings": 148, "straight": {"n": 1209, "mm": 1431.1}, "curved": {"n": 357, "mm": 535.9}},
+  "tb": {"rings": 170, "straight": {"n": 1727, "mm": 3778.0}, "curved": {"n": 373, "mm": 780.8}}
+ },
+ "circles": [
+  {"c": [57.8, 55.5], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [57.9, 79.4], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [56.7, 302.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [57.7, 121.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [58.0, 93.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [56.4, 339.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [56.5, 375.1], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [154.9, 27.8], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [136.7, 409.3, 145.7, 413.7], "text": "WBS"},
+   {"mm": [161.5, 409.3, 173.4, 413.7], "text": "M4gom"},
+   {"mm": [154.6, 288.4, 166.9, 293.7], "text": "MODE"},
+   {"mm": [244.8, 193.9, 254.5, 201.6], "text": "12"},
+   {"mm": [138.4, 194.5, 143.1, 200.5], "text": "15"},
+   {"mm": [137.5, 181.4, 144.0, 188.3], "text": "20"},
+   {"mm": [165.8, 181.6, 171.2, 188.0], "text": "20"},
+   {"mm": [137.5, 166.7, 144.0, 173.2], "text": "30"},
+   {"mm": [165.8, 167.1, 171.2, 173.1], "text": "30"},
+   {"mm": [137.5, 139.3, 144.0, 145.7], "text": "50"},
+   {"mm": [165.8, 134.1, 171.2, 145.3], "text": "60"},
+   {"mm": [245.5, 122.4, 254.5, 129.4], "text": "13"},
+   {"mm": [160.0, 92.0, 168.0, 97.5], "text": "OFF"},
+   {"mm": [217.4, 52.9, 243.3, 59.9], "text": "WBS"},
+   {"mm": [249.4, 53.5, 329.2, 60.0], "text": "WARD-BECK SySTEMs"},
+   {"mm": [151.8, 37.6, 158.3, 41.9], "text": "ON"},
+   {"mm": [256.7, 37.1, 283.7, 44.1], "text": "M490m"},
+   {"mm": [225.4, 29.1, 314.6, 36.8], "text": "STEREO INPUT MODULE"},
+   {"mm": [239.6, 21.2, 302.5, 28.6], "text": "MODULE LAYouT"},
+   {"mm": [211.6, 9.1, 264.5, 17.2], "text": "B 490-04-026"},
+   {"mm": [312.4, 9.7, 330.8, 16.7], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {
+  "mm": [130.0, 44.3, 335.9, 422.3],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "M4gom", "MODE", "12", "15", "20", "20", "30", "30", "50", "60", "13", "OFF", "WBS", "WARD-BECK SySTEMs"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 490-04-026, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–330 mm across, 10–417 mm up",
+  "- **Outlines:** line 35 rings, 1,258 straight (4,461 mm) / 180 curved (451 mm); text 148 rings, 1,209 straight (1,431 mm) / 357 curved (536 mm); tb 170 rings, 1,727 straight (3,778 mm) / 373 curved (781 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 5.1 @ (57.8, 55.5), r 5.1 @ (57.9, 79.4), r 5.0 @ (56.7, 302.8), r 5.0 @ (57.7, 121.4)",
+  "- **Words (OCR):** 24 in 21 lines: WBS · M4gom · MODE · 12 · 15 · 20 · 20 · 30 · 30 · 50 · 60 · 13",
+  "- **Title block:** (130, 44)–(336, 422) mm: WBS · M4gom · MODE · 12 · 15 · 20 · 20 · 30 · 30 · 50 · 60 · 13 · OFF · WBS · WARD-BECK SySTEMs"
+ ]
+}

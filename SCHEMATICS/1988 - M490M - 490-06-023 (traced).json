@@ -1,0 +1,90 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/SCHEMATICS/1988 - M490M - 490-06-023.jpg",
+ "version": 1,
+ "trace": "_traces/ae2f909b617a891b.svg",
+ "sheet": {
+  "number": "490-06-023",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [17.5, 34.5, 338.6, 383.0],
+ "outlines": {
+  "line": {"rings": 636, "straight": {"n": 6499, "mm": 11447.8}, "curved": {"n": 1901, "mm": 2008.5}},
+  "text": {"rings": 402, "straight": {"n": 2782, "mm": 2430.8}, "curved": {"n": 1063, "mm": 1195.9}},
+  "tb": {"rings": 4, "straight": {"n": 79, "mm": 121.1}, "curved": {"n": 12, "mm": 13.9}}
+ },
+ "circles": [
+  {"c": [45.8, 132.0], "r": 4.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [219.1, 131.6], "r": 4.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [329.6, 130.9], "r": 4.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [258.5, 210.3], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [332.7, 209.9], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [85.4, 339.9], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [37.9, 159.2], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [244.3, 158.4], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [244.5, 260.3], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [130.2, 342.9], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [23.3, 340.4], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6}
+ ],
+ "boxes": [
+  {"mm": [63.7, 346.3, 68.4, 349.5], "w": 4.7, "h": 3.2, "from": "ring"},
+  {"mm": [36.3, 342.0, 41.0, 344.1], "w": 4.7, "h": 2.2, "from": "ring"},
+  {"mm": [63.7, 341.6, 68.4, 343.9], "w": 4.7, "h": 2.4, "from": "ring"},
+  {"mm": [101.9, 341.6, 106.4, 343.9], "w": 4.5, "h": 2.4, "from": "ring"},
+  {"mm": [214.6, 226.7, 224.2, 249.1], "w": 9.6, "h": 22.5, "from": "ring"},
+  {"mm": [226.7, 246.6, 236.2, 249.1], "w": 9.5, "h": 2.6, "from": "ring"},
+  {"mm": [226.7, 221.7, 236.2, 244.2], "w": 9.6, "h": 22.5, "from": "ring"},
+  {"mm": [214.6, 221.9, 224.1, 224.3], "w": 9.5, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 33,
+  "lines": [
+   {"mm": [96.1, 375.7, 112.3, 383.8], "text": "P895081"},
+   {"mm": [39.7, 375.9, 65.0, 380.2], "text": "INPUT   SELECT"},
+   {"mm": [60.9, 369.6, 68.4, 377.3], "text": "581"},
+   {"mm": [100.6, 370.1, 107.5, 373.9], "text": "SV4"},
+   {"mm": [41.9, 367.2, 62.8, 371.1], "text": "VBS 11-042"},
+   {"mm": [93.7, 366.8, 114.6, 371.1], "text": "VBS 11-045"},
+   {"mm": [188.0, 272.9, 203.6, 276.7], "text": "ooco"},
+   {"mm": [188.0, 269.7, 203.6, 273.5], "text": "0 0 0 0"},
+   {"mm": [206.8, 238.4, 211.6, 245.3], "text": "81"},
+   {"mm": [147.9, 225.6, 164.1, 233.3], "text": "9292"},
+   {"mm": [148.1, 217.8, 160.0, 221.7], "text": "0 0 0"},
+   {"mm": [148.1, 213.7, 163.2, 218.5], "text": "IJWL"},
+   {"mm": [270.1, 199.5, 324.5, 214.9], "text": "32039 O:8"},
+   {"mm": [250.2, 191.7, 259.9, 200.4], "text": "44"},
+   {"mm": [325.8, 191.1, 334.4, 199.2], "text": "591"},
+   {"mm": [293.8, 184.8, 308.5, 194.4], "text": "3838"},
+   {"mm": [328.0, 184.6, 335.5, 192.3], "text": "82"},
+   {"mm": [216.5, 176.2, 275.5, 185.8], "text": "@OO00085 9 9"},
+   {"mm": [274.6, 168.4, 288.0, 176.6], "text": "Igizizi"},
+   {"mm": [260.6, 161.9, 288.7, 168.9], "text": "2988229"},
+   {"mm": [265.1, 156.7, 284.6, 162.0], "text": "IIII |"},
+   {"mm": [283.7, 155.0, 301.4, 163.7], "text": "I@i@"},
+   {"mm": [138.2, 138.2, 167.8, 146.8], "text": "4499 9"},
+   {"mm": [71.7, 132.1, 112.9, 139.8], "text": "2 8 2 ? 8 3 3"},
+   {"mm": [237.9, 126.3, 312.4, 136.4], "text": "WBS 14-119 ISSUE"},
+   {"mm": [234.7, 124.1, 255.2, 130.6], "text": "CANADA"}
+  ]
+ },
+ "title_block": {"mm": [231.1, 117.7, 319.1, 145.2], "from": "title-block words (training set)", "text": ["WBS 14-119 ISSUE", "CANADA"]},
+ "dots": [{"c": [99.1, 242.6], "r": 0.7, "lines": 0}, {"c": [279.9, 200.5], "r": 0.7, "lines": 0}, {"c": [196.2, 166.6], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 490-06-023, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 18–339 mm across, 34–383 mm up",
+  "- **Outlines:** line 636 rings, 6,499 straight (11,448 mm) / 1,901 curved (2,008 mm); text 402 rings, 2,782 straight (2,431 mm) / 1,063 curved (1,196 mm); tb 4 rings, 79 straight (121 mm) / 12 curved (13.9 mm)",
+  "- **Circles and arcs:** 11 circles, 0 arcs; largest r 4.9 @ (45.8, 132.0), r 4.9 @ (219.1, 131.6), r 4.7 @ (329.6, 130.9), r 3.3 @ (258.5, 210.3)",
+  "- **Closed boxes:** 8",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 33 in 26 lines: P895081 · INPUT   SELECT · 581 · SV4 · VBS 11-042 · VBS 11-045 · ooco · 0 0 0 0 · 81 · 9292 · 0 0 0 · IJWL",
+  "- **Title block:** (231, 118)–(319, 145) mm: WBS 14-119 ISSUE · CANADA"
+ ]
+}

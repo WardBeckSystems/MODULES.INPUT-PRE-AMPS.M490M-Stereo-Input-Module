@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/813af599e6ad3146-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 17.5, 337.2, 412.7],
+ "outlines": {
+  "line": {"rings": 127, "straight": {"n": 1425, "mm": 4200.0}, "curved": {"n": 280, "mm": 439.7}},
+  "text": {"rings": 146, "straight": {"n": 1305, "mm": 1917.7}, "curved": {"n": 296, "mm": 463.8}}
+ },
+ "circles": [
+  {"c": [147.4, 221.9], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [254.8, 395.1], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [43.0, 392.5, 282.8, 410.4], "text": "[VV8S) 84' PRO(>ReS5 ENUE SCARaOROUG ONTA IO /435-615&1"},
+   {"mm": [119.0, 403.7, 283.7, 410.7], "text": "WARD-BECK SYS TE MS LTD."},
+   {"mm": [119.0, 392.5, 124.4, 396.6], "text": "FA"},
+   {"mm": [158.9, 392.3, 164.7, 396.4], "text": "136"},
+   {"mm": [212.7, 392.5, 252.4, 396.6], "text": "TE LEP HO NE 41"},
+   {"mm": [154.4, 234.9, 182.2, 242.1], "text": "M490M"},
+   {"mm": [117.4, 217.2, 218.9, 224.4], "text": "STEREO INPUT MODULE"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [235.3, 49.4, 249.6, 54.7], "text": "ruary"},
+   {"mm": [261.9, 49.4, 273.5, 54.7], "text": "1991"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [235.1, 395.2], "r": 1.1, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–337 mm across, 18–413 mm up",
+  "- **Outlines:** line 127 rings, 1,425 straight (4,200 mm) / 280 curved (440 mm); text 146 rings, 1,305 straight (1,918 mm) / 296 curved (464 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 3.3 @ (147.4, 221.9), r 1.8 @ (254.8, 395.1)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 30 in 13 lines: [VV8S) 84' PRO(>ReS5 ENUE SCARaOROUG ONTA IO /435-615&1 · WARD-BECK SYS TE MS LTD. · FA · 136 · TE LEP HO NE 41 · M490M · STEREO INPUT MODULE · ps · BS · ruary · 1991 · tp"
+ ]
+}
