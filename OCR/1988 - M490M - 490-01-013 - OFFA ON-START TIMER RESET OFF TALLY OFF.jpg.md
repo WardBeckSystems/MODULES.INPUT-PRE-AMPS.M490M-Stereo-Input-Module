@@ -22,7 +22,7 @@ Wiki page: [M490M](../../../../PAGES/M490M.md)
 - **Words (OCR):** 57 in 49 lines: FADER · (-15 dB) CH ON · INSERT · LEFT · MODE · SELECT · LEFT · SENSITIVITY · (20 dB) · 30 · LINE · INPUTS
 - **Wiring (first pass):** 207 connected wire groups from 381 runs; labelled ends: 130 mm → MODE, SELECT, (-15, dB) CH; 121 mm → RIGHT, INPUT; 64 mm → INSERT; 44 mm → INSERT; 42 mm → INSERT
 
-Every curve, box, word and wire group: [1988 - M490M - 490-01-013 - OFFA ON-START TIMER RESET OFF TALLY OFF (traced).json](../SCHEMATICS/1988%20-%20M490M%20-%20490-01-013%20-%20OFFA%20ON-START%20TIMER%20RESET%20OFF%20TALLY%20OFF%20(traced).json) (the CAD file: `1988 - M490M - 490-01-013 - OFFA ON-START TIMER RESET OFF TALLY OFF (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - 490-01-013 - OFFA ON-START TIMER RESET OFF TALLY OFF (traced).json](../SCHEMATICS/1988%20-%20M490M%20-%20490-01-013%20-%20OFFA%20ON-START%20TIMER%20RESET%20OFF%20TALLY%20OFF%20%28traced%29.json) (the CAD file: `1988 - M490M - 490-01-013 - OFFA ON-START TIMER RESET OFF TALLY OFF (traced).dxf`).
 
 ## Full text
 

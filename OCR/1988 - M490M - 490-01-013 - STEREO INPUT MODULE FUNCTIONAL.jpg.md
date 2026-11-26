@@ -23,7 +23,7 @@ Wiki page: [M490M](../../../../PAGES/M490M.md)
 - **Title block:** (208, 49)–(334, 74) mm: WBS · WARD-BECK sYSTEMS
 - **Wiring (first pass):** 112 connected wire groups from 206 runs; labelled ends: 115 mm → AsSIGN; 75 mm → CUE; 52 mm → CUE; 33 mm → CUE, RIGHT, 7 A; 33 mm → ON
 
-Every curve, box, word and wire group: [1988 - M490M - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL (traced).json](../SCHEMATICS/1988%20-%20M490M%20-%20490-01-013%20-%20STEREO%20INPUT%20MODULE%20FUNCTIONAL%20(traced).json) (the CAD file: `1988 - M490M - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL (traced).json](../SCHEMATICS/1988%20-%20M490M%20-%20490-01-013%20-%20STEREO%20INPUT%20MODULE%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1988 - M490M - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

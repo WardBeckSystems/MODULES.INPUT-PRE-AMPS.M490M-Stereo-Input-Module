@@ -21,7 +21,7 @@ Wiki page: [M490M](../../../../PAGES/M490M.md)
 - **Words (OCR):** 54 in 40 lines: 3 28 828 22 81 · 81 · e/e · 491 · 44 · 83 2280 · 38 · Ig · 828 · 58 · Oz8 · TN4036 T2402
 - **Title block:** (8, 46)–(317, 141) mm: 8 :8 ? · PN3569 · 119 ISSUE · II · WES WARD-BECK SYSTEMS · Magom
 
-Every curve, box, word and wire group: [1988 - M490M - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1988%20-%20M490M%20-%20490-06-023%20-%20STEREO%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1988 - M490M - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1988%20-%20M490M%20-%20490-06-023%20-%20STEREO%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1988 - M490M - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

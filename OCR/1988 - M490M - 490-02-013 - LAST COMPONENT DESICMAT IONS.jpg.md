@@ -24,7 +24,7 @@ Wiki page: [M490M](../../../../PAGES/M490M.md)
 - **Title block:** (202, 48)–(327, 72) mm: WBS WARD-BECK BYBTEMS
 - **Wiring (first pass):** 153 connected wire groups from 1,086 runs, 1 dotted junctions; labelled ends: 266 mm → ISK; 126 mm → 1107; 109 mm → 1838; 98 mm → D/iO; 73 mm → 73, D/io
 
-Every curve, box, word and wire group: [1988 - M490M - 490-02-013 - LAST COMPONENT DESICMAT IONS (traced).json](../SCHEMATICS/1988%20-%20M490M%20-%20490-02-013%20-%20LAST%20COMPONENT%20DESICMAT%20IONS%20(traced).json) (the CAD file: `1988 - M490M - 490-02-013 - LAST COMPONENT DESICMAT IONS (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - 490-02-013 - LAST COMPONENT DESICMAT IONS (traced).json](../SCHEMATICS/1988%20-%20M490M%20-%20490-02-013%20-%20LAST%20COMPONENT%20DESICMAT%20IONS%20%28traced%29.json) (the CAD file: `1988 - M490M - 490-02-013 - LAST COMPONENT DESICMAT IONS (traced).dxf`).
 
 ## Full text
 

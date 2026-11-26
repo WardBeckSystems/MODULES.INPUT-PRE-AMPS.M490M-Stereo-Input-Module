@@ -22,7 +22,7 @@ Wiki page: [M490M](../../../../PAGES/M490M.md)
 - **Words (OCR):** 13 in 8 lines: WARD-BECK SYSTEMS LTD · WBS 841 PaOGAESS AVENUE SCARBOROUGH; ONTARIO M1h2xa · FAX: 416/438-3865 · TELEPHONE: 416/438-6550 · M49OM · STEREO INPUT MODULE · February 24. 1992 · MW91OOI /MAOOM WP
 - **Title block:** (44, 386)–(262, 421) mm: WARD-BECK SYSTEMS LTD · WBS 841 PaOGAESS AVENUE SCARBOROUGH; ONTARIO M1h2xa · FAX: 416/438-3865 · TELEPHONE: 416/438-6550
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p1 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p1%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p1 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p1%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p1 (t
 - **Outlines:** line 57 rings, 1,060 straight (3,674 mm) / 164 curved (255 mm); text 696 rings, 5,033 straight (5,862 mm) / 1,500 curved (2,362 mm)
 - **Words (OCR):** 78 in 54 lines: WAAD-BECK systems LTD · TABLE OF CONTENIS · M49om STEREO INPUT MODULE · SECTION · PAGE · Warranty · Main_Frame · Technical Data · 1-1 to · 1-2 · General · 2-1 t0
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p2 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p2%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p2 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p2%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p2 (t
 - **Words (OCR):** 196 in 88 lines: WARD-BECK Systems LTD · TECHNICAL DATA · M49oM STEREO INPUT · MODULE · Input Sensitivity: · (ref . 600 ohm · -10 to · +10 dBm · source) · Frequency Response: · +/-0.2 dB from 30 Hz to · 20 kHz .
 - **Title block:** (24, 406)–(135, 431) mm: WARD-BECK Systems LTD
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p3 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p3%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p3 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p3%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p3 (t
 - **Words (OCR):** 34 in 18 lines: WARD-BECK systems LTD; · TECHNICAL DATA · M49om STEREO INPUT MODULE · Ambient Temperature: · degrees Celsius: · to · 60 · Dimensions: · 1.60" wide 14.15" high · 6.50" deep · (41 mm · 360 mm
 - **Title block:** (26, 409)–(157, 432) mm: WARD-BECK systems LTD;
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p4 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p4%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p4 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p4%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -63,7 +63,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p4 (t
 - **Words (OCR):** 272 in 130 lines: WARD-BECK · SYStems LTD_ · GENERAL · M49om · STEREO iNPUT · MODULE · The · ML9OM provides complete stereo · input channel · facilities as · required for the · R12Oo/R2O00 series
 - **Title block:** (26, 407)–(137, 432) mm: WARD-BECK · SYStems LTD_
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p5 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p5%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p5 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p5%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -73,7 +73,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p5 (t
 - **Words (OCR):** 105 in 49 lines: WARD-BECK · systems LTD · GENERAL · MLgom STEREO INPUT · MODULE · red · LED indicator above the Cue · pushbutton illuminates when the · Cue channel has been activated. · Mluminated silent · action · pushbutton
 - **Title block:** (21, 237)–(304, 432) mm: WARD-BECK · systems LTD · GENERAL · MLgom STEREO INPUT · MODULE · red · LED indicator above the Cue · pushbutton illuminates when the · Cue channel has been activated. · Mluminated silent · action · p
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p6 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p6%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p6 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p6%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -85,7 +85,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p6 (t
 - **Words (OCR):** 182 in 90 lines: WARD-BECK SYSTEMS Lto · OPERATIONAL · DESCRiPTION · MLgom STEREO · INPUT MODULE · Refer t0 · Module · Layout · B49o-04-026 · INPUT · iNPUT · Selector switches
 - **Title block:** (23, 409)–(134, 432) mm: WARD-BECK SYSTEMS Lto
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p7 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p7%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p7 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p7%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -96,7 +96,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p7 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 200 in 98 lines: WARD-BECK SySTems LTD · OPERATIONAL · DESCRIPTION · ML9OM STEREO iNPUT · MODULE · RIGHT · SENSiTiViTY · Sensitivity control · R49 is part · of the · SA1L-120 · Preamplifier
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p8 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p8%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p8 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p8%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -107,7 +107,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p8 (t
 - **Words (OCR):** 281 in 123 lines: WAAD-BECK systems LTD · ciRcuit DESCRIPTION · M4gom STEREO · INPUT MODULE · Input · Input Selector switches Sw1 and · SW2 are · mutually interlocked · and · permit the · selection of one · of two
 - **Title block:** (24, 409)–(135, 432) mm: WAAD-BECK systems LTD
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p9 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p9%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p9 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p9%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -117,7 +117,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p9 (t
 - **Words (OCR):** 292 in 133 lines: WARD-BECK systems · LTD · CIRcuIT · DESCRIPTION · M49om STEREO INPUT · MODULE · Booster Amplifier · Following U1 and u4 the · signal is · amplified by · integrated circuits · U2,
 - **Title block:** (22, 408)–(133, 432) mm: WARD-BECK systems
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p10 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p10%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p10 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p10%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -128,7 +128,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p10 (
 - **Words (OCR):** 316 in 157 lines: WARD-BECK systems LTD; · CIRcUIT · DESCRIPTION · M49om STEREO INPUT · MODULE · Channel · On; · Momentary operation of the · Channel On switch · sw9 will · produce · negative
 - **Title block:** (22, 407)–(133, 432) mm: WARD-BECK systems LTD;
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p11 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p11%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p11 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p11%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -139,7 +139,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p11 (
 - **Words (OCR):** 303 in 142 lines: WARD-BECK systems LTD · CIRcuiT DESCRIPTION · M49OM STEREO inPUT MODULE · is available on · Sw8 and is · accessible at · separate contact · P2, pin and Mt · 17 · may be used · for · "machine stop
 - **Title block:** (26, 407)–(137, 432) mm: WARD-BECK systems LTD
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p12 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p12%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p12 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p12%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p12 (
 - **Outlines:** line 63 rings, 981 straight (3,267 mm) / 166 curved (248 mm); text 1,381 rings, 9,518 straight (10,543 mm) / 2,969 curved (4,637 mm)
 - **Words (OCR):** 201 in 93 lines: WARD-BECK Systems LTD · CiRcuiT DESCRIPTION · M49om STEREO INPUT MODULE · The output · produced at · pin · of U10 wili always · be · negative going · pulse of approximately · 500  milliseconds durat- · ion . CRIT passes
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p13 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p13%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p13 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p13%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -157,7 +157,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p13 (
 - **Outlines:** line 188 rings, 1,512 straight (4,242 mm) / 299 curved (447 mm); text 1,080 rings, 8,731 straight (10,167 mm) / 2,725 curved (4,353 mm)
 - **Words (OCR):** 149 in 138 lines: WARD-BECK SYSTEMs LTD_ · PARTS · LiST · M49om STEREO INPUT.MODULE · PART DESCRIPT ION · NUMBER · MFG · MFG PART · ATTI · Attenuator · PeG · 1550/4H35/100
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p14 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p14%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p14 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p14%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p14 (
 - **Words (OCR):** 90 in 78 lines: WAAD-BECK Systems LTD_ · PARTS LiST · ML9OM · STEREO INPUT MODULE · PART DESCRIPTION · MFG · MFG PART · NUMBER · C35 · Capacitor · uF/35 · Kemet
 - **Title block:** (24, 407)–(135, 432) mm: WAAD-BECK Systems LTD_
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p15 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p15%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p15 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p15%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -177,7 +177,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p15 (
 - **Words (OCR):** 102 in 86 lines: WAAD-BECK SYSTEMS LTD. · PARIS LIST · M49OM STEREO · INPUT_MODULE · DESCRIPTION · MFG · PART · MFG PART NUMBER · CR2I · Diode, · Zener 13V · Fairchild
 - **Title block:** (21, 408)–(132, 432) mm: WAAD-BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p16 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p16%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p16 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p16%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -186,7 +186,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p16 (
 - **Outlines:** line 117 rings, 1,119 straight (3,851 mm) / 189 curved (300 mm); text 563 rings, 4,406 straight (5,146 mm) / 1,286 curved (1,958 mm)
 - **Words (OCR):** 95 in 85 lines: WARD-BECK SYSTEMS LTD; · PARTS LiST · M49om STEREO INPUT · MQDULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · R1l · Resistor · 1/4w 5% 10k · Philips
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p17 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p17%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p17 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p17%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -195,7 +195,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p17 (
 - **Outlines:** line 133 rings, 1,303 straight (4,096 mm) / 227 curved (347 mm); text 571 rings, 4,380 straight (5,131 mm) / 1,379 curved (2,149 mm)
 - **Words (OCR):** 95 in 87 lines: WARD-BECK SYstems LTD; · PARTS · LiST · M49om STEREO INPUT_MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · R45 · Resistor · 1/4w 5% 3K3
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p18 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p18%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p18 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p18%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -204,7 +204,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p18 (
 - **Outlines:** line 174 rings, 1,414 straight (3,960 mm) / 283 curved (452 mm); text 549 rings, 4,096 straight (4,819 mm) / 1,188 curved (1,869 mm)
 - **Words (OCR):** 95 in 84 lines: WAAD-BECK Systems LTD · PARTS LIST · M49om STEREO iNPUT · MODULE · PART DESCRIPTION · NUMBER · MFG · MFG PART · R8o · Resistor · 1/4w 5% 4K7 · Philips
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p19 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p19%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p19 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p19%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -214,7 +214,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p19 (
 - **Words (OCR):** 86 in 82 lines: WARD-BECK · SYSTEMS LTD · PARTS LIST · M4QOM STEREQ INPUIMQDULE · PART · DESCRIPTION · MEG · MEG PARTNUMBER · RHS · Resistor |/4W 5% · TOK · Philips
 - **Title block:** (22, 93)–(279, 422) mm: WARD-BECK · SYSTEMS LTD · PARTS LIST · M4QOM STEREQ INPUIMQDULE · PART · DESCRIPTION · MEG · MEG PARTNUMBER · RHS · Resistor |/4W 5% · TOK · Philips · CR2S · RI6 · 3W 506 · 50 · Dale · RO3WE-SOR · R7 
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p20 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p20%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p20 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p20%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -224,7 +224,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p20 (
 - **Words (OCR):** 105 in 78 lines: WAAD-BECK systems LTD_ · PARTS LiST · ML9om STEREO · inPuT MODULE · SOCKETS AND · MISCELLANEoUS · COMPONENTS · MFG · MFG PART NUMBER · USED ON DESCRIPTION · ATTI · Attenuator Knob (White)
 - **Title block:** (27, 52)–(136, 431) mm: WAAD-BECK systems LTD_ · SOCKETS AND · USED ON DESCRIPTION · ATTI · Attenuator Knob (White) · R22 · R23 · Wing Knob · R59 · cap (Biack) · R6o) · R29 · delete · R66 · SwI · Cap (Black/White) · Sw2 · Sw
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p21 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p21%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p21 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p21%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -235,7 +235,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p21 (
 - **Words (OCR):** 73 in 55 lines: WARD-BECK systems · LTD · P1 CONNECTOR LAYoUT · M49om STEREO iNPUT · MODULE · PGM OUT, LEFT · PGM OuT, · LEFT · PGM · ouT, RIGHT · Olt, · Rigkt
 - **Title block:** (26, 412)–(137, 432) mm: WARD-BECK systems
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p22 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p22%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p22 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p22%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -246,7 +246,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p22 (
 - **Words (OCR):** 114 in 69 lines: WARD-BECK · systems LTD_ · CONNECTOR LAYOUT · P2 · ML9OM STEREO · INPUT MODULE · inPuT · LEFT · INPUT · LEFT · INPUT · RIGHT
 - **Title block:** (31, 409)–(141, 432) mm: WARD-BECK · systems LTD_
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p23 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p23%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p23 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p23%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -258,7 +258,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p23 (
 - **Dots (junctions):** 3
 - **Words (OCR):** 12 in 12 lines: PREAMPLIF · 5414-120 · SUBASSEMBL · AND Ds1 · MOUNTED ON · 5414-120 · 051 · PRe AMPLIF · SuBASSE MBLY · Sw8 · 3-22 · 579
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p24 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p24%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p24 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p24%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -270,7 +270,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p24 (
 - **Words (OCR):** 24 in 22 lines: WBS · M490m · MODE · 12 · 15 · 20 · 20 · 30 · 30 · 50 · 60 · 13
 - **Title block:** (130, 44)–(336, 422) mm: WBS · M490m · MODE · 12 · 15 · 20 · 20 · 30 · 30 · 50 · 60 · 13 · OFF · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p25 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p25%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p25 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p25%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -281,7 +281,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p25 (
 - **Closed boxes:** 4; named: MODE SELECT S0 50+0; PGM/ CUE CTL Logic
 - **Words (OCR):** 57 in 46 lines: FADER · (-15 dB) CH ON · INSERT · LEFT · MODE · SELECT · LEFT · SENSiTiViTY · (20 dB) · S0 · LINE · iNPUTS
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p26 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p26%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p26 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p26%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -295,7 +295,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p26 (
 - **Title block:** (208, 49)–(333, 74) mm: WBS · WAAD-BECK BysTemB
 - **Wiring (first pass):** 116 connected wire groups from 205 runs; labelled ends: 115 mm → ASSIGN; 68 mm → CUE; 33 mm → ON; 33 mm → CUE; 33 mm → CUE
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p27 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p27%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p27 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p27%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -306,7 +306,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p27 (
 - **Dots (junctions):** 4
 - **Words (OCR):** 34 in 33 lines: 54-170 · RChT · inputs · cR? · cortaol · contaol · coutrOL · SIELO · cazi · {;i6 0.I/100 · 10/75 · RITT
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p28 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p28%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p28 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p28%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -321,7 +321,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p28 (
 - **Title block:** (202, 47)–(327, 72) mm: WBS WARD-BECK BysTEMB
 - **Wiring (first pass):** 152 connected wire groups from 1,141 runs; labelled ends: 279 mm → 1204, J1/[0; 264 mm → IsK; 114 mm → 0.1/100, 133}; 68 mm → J1/[0; 67 mm → 1hz102
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p29 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p29%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p29 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p29%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -334,7 +334,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p29 (
 - **Words (OCR):** 28 in 23 lines: INPUT  SELECT · Sv2 · 58, · Sh4 · HBS 11-042 · VBS 11-043 · 0 0 0 0 · 81 · 8 8 8 · I7WL · 22023 O:8 · 44
 - **Title block:** (231, 118)–(320, 145) mm: WBS 14-119 ISSUE · CANADA
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p30 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p30%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p30 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p30%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -347,7 +347,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p30 (
 - **Words (OCR):** 51 in 40 lines: 8 28 8 28 22 · 81 · 81 · e/0 83 · 44 · 2 2 · 82 2282 · 348 · {0i · 1 J · 828 · 582
 - **Title block:** (8, 46)–(317, 141) mm: PN3569 · 119 ISSUE · II · WBS WARD-BECK SYSTEMS · Magom
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p31 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p31%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p31 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p31%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p31 (traced).dxf`).
 
 ### Page 32
 
@@ -357,7 +357,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p31 (
 - **Closed boxes:** 1
 - **Words (OCR):** 5 in 4 lines: LTD · SECTION · MODULES AND · SUBASSE MBL IES
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p32 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p32%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p32 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p32 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p32%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p32 (traced).dxf`).
 
 ### Page 33
 
@@ -367,7 +367,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p32 (
 - **Words (OCR):** 4 in 4 lines: WAAD-BeCk Bybtemb LTD; · 5A14-120 STEREO PREAMPLIFIER ASSEMBLY · Issue #2 · May 27, 1988
 - **Title block:** (26, 66)–(281, 423) mm: WAAD-BeCk Bybtemb LTD; · 5A14-120 STEREO PREAMPLIFIER ASSEMBLY · Issue #2 · May 27, 1988
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p33 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p33%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p33 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p33 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p33%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p33 (traced).dxf`).
 
 ### Page 34
 
@@ -376,7 +376,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p33 (
 - **Outlines:** line 59 rings, 609 straight (3,484 mm) / 99 curved (146 mm); text 2,131 rings, 14,646 straight (15,951 mm) / 4,447 curved (6,795 mm)
 - **Words (OCR):** 303 in 136 lines: WAAD-BECK Systems LTD · CIRcUIT DESCR IPTION · SA14-120 STEREO PREAMPLIFIER · ASSEMBLY · The SA14-120 Stereo · Preamplifier assemb ly contains the · Left and · Right channel · ifiers, Mode · Select matrixing, Cue channel · preampli · solid state switches and
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p34 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p34%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p34 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p34 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p34%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p34 (traced).dxf`).
 
 ### Page 35
 
@@ -385,7 +385,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p34 (
 - **Outlines:** line 42 rings, 688 straight (3,355 mm) / 116 curved (181 mm); text 1,072 rings, 7,489 straight (8,254 mm) / 2,306 curved (3,609 mm)
 - **Words (OCR):** 170 in 71 lines: WAAD-BECK · Bybtemb LTD; · CIRcUIT DESCRIPTION · SA14-120STEREO PREAMPLIFIER ASSEMBLY · Cue · The Cue circuit consists · of the ana · log sol id state · switch u6 and · buffer u7 · The Cue · signal is
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p35 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p35%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p35 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p35 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p35%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p35 (traced).dxf`).
 
 ### Page 36
 
@@ -395,7 +395,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p35 (
 - **Words (OCR):** 163 in 137 lines: WAAD-BECK systems · LTD_ · PARTS LiST · SA14-120 · STEREO PREAMPLIFIER ASSEMBLY · PART DESCRIPTION · MFG · MFG PART NUMBER · C1 · Capacitor · 68 uF/10 · Kemet
 - **Title block:** (28, 397)–(136, 422) mm: WAAD-BECK systems
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p36 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p36%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p36 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p36 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p36%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p36 (traced).dxf`).
 
 ### Page 37
 
@@ -404,7 +404,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p36 (
 - **Outlines:** line 203 rings, 1,427 straight (4,616 mm) / 285 curved (424 mm); text 883 rings, 6,734 straight (7,742 mm) / 2,162 curved (3,431 mm)
 - **Words (OCR):** 126 in 109 lines: WAAD-BECK SYSTems LTD; · PARTS LiST · SA14-120 · STEREO PREAMPLIFIER ASSEMBLY · PART DESCRIPTION · MFG · MFG PART NUMBER · C36 · Capacitor 22 · pF · Philips · 2222-638-10229
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p37 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p37%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p37 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p37 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p37%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p37 (traced).dxf`).
 
 ### Page 38
 
@@ -414,7 +414,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p37 (
 - **Words (OCR):** 112 in 93 lines: WAAD-BECK systems LTD · PARTS LIST · SA14-120 STEREO PREAMPL IFIER ASSEMBLY · PART DESCRiPTION · NUMBER · MFG · MFG PART · DSI · LED, Yellow · Fairchild · FLVLiO · P1
 - **Title block:** (29, 184)–(252, 423) mm: WAAD-BECK systems LTD · PARTS LIST · SA14-120 STEREO PREAMPL IFIER ASSEMBLY · PART DESCRiPTION · MFG · MFG PART · DSI · LED, Yellow · Fairchild · FLVLiO · P1 · Pin · Bergstick · Berg · 65646-106 · P2 
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p38 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p38%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p38 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p38 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p38%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p38 (traced).dxf`).
 
 ### Page 39
 
@@ -424,7 +424,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p38 (
 - **Words (OCR):** 101 in 94 lines: WAAD-BECK Systems LTD · PARTS LiST · 5A14-120 STEREO · PREAMPLIFIER · ASSEMBLY · PART · DESCRIPTION · MFG · MFG PART NUMBER · R3I · Resistor 1/Lw · 15k
 - **Title block:** (25, 167)–(250, 424) mm: WAAD-BECK Systems LTD · PARTS LiST · 5A14-120 STEREO · PREAMPLIFIER · ASSEMBLY · PART · DESCRIPTION · MFG · R3I · Resistor 1/Lw · 15k · Phil · ips · R32 · 220 · R33 · 220 · R3h · 220k · R35 · 2m2 · R3
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p39 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p39%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p39 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p39 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p39%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p39 (traced).dxf`).
 
 ### Page 40
 
@@ -434,7 +434,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p39 (
 - **Words (OCR):** 95 in 81 lines: WAAD-BeCK SYBTEMS LTD · PARTS LiST · SA14-120 STEREO PREAMPLIF IER · ASSEMBLY · PART DESCRIPTION · MFG · MFG PART NUMBER · R66 · Resistor I4w · 4k7 · Philips · R67
 - **Title block:** (28, 130)–(252, 420) mm: WAAD-BeCK SYBTEMS LTD · PARTS LiST · SA14-120 STEREO PREAMPLIF IER · ASSEMBLY · PART DESCRIPTION · MFG · R66 · Resistor I4w · 4k7 · Philips · R67 · 22k · R68 · 22k · R69 · 15k · R70 · 15k · R7I · 220 
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p40 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p40%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p40 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p40 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p40%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p40 (traced).dxf`).
 
 ### Page 41
 
@@ -444,7 +444,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p40 (
 - **Words (OCR):** 54 in 35 lines: WAAD-BECK SYsTems LTD · PARTS LiST · SA1Z-120 STEREO PREAMPL IF IER · ASSEMBL Y · MISCELLANEOUS SOCKETS · USED ON · DESCR IPTION · MFG · MFG PART · NUMBER · Swi · Wing Knob
 - **Title block:** (25, 36)–(132, 425) mm: WAAD-BECK SYsTems LTD · USED ON · DESCR IPTION · Swi · Wing Knob · Cap (Black · U1,U2,43 · 44,U5,U7 · Pin L.c. · 49 · 06 u8 · 14 Pin L.C. · WBS recommends the use · manufacturers for continued optimum
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p41 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p41%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p41 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p41 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p41%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p41 (traced).dxf`).
 
 ### Page 42
 
@@ -456,7 +456,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p41 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 93 in 83 lines: 60/10 · LFT · dOk cRI · CR? · MBJJN · PREAMP · 600 Jnmt · NESSJAN · 58 · 215 · 68/10 · 323
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p42 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p42%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p42 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p42 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p42%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p42 (traced).dxf`).
 
 ### Page 43
 
@@ -470,7 +470,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p42 (
 - **Title block:** (214, 44)–(335, 69) mm: WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 89 connected wire groups from 592 runs; labelled ends: 233 mm → Re{; 222 mm → R6B, 8/16, 220k, 202; 196 mm → R36, 337, R25, LVl; 176 mm → R28, R29, 21k, c20; 131 mm → R28, 24, C21, %28
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p43 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p43%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p43 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p43 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p43%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p43 (traced).dxf`).
 
 ### Page 44
 
@@ -482,7 +482,7 @@ Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p43 (
 - **Words (OCR):** 167 in 139 lines: SENSITIVITY · RICHT · SENSITIVITY · VBS 10-046 HBS 10-046 · VBS 11-132 · R49 · Sk (B) · Sk ( 0) · 68/40 35/16 · 68/40 33/16 · 12P · R46
 - **Title block:** (207, 45)–(329, 69) mm: WBS WARD-BECK SYSTEMS · SA14-120
 
-Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p44 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p44%20(traced).json) (the CAD file: `1988 - M490M - Stereo Input Module p44 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M490M - Stereo Input Module p44 (traced).json](../MANUALS/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p44%20%28traced%29.json) (the CAD file: `1988 - M490M - Stereo Input Module p44 (traced).dxf`).
 
 ## Full text
 
