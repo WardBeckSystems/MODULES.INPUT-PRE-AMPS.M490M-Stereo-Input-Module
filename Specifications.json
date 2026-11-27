@@ -1,0 +1,222 @@
+{
+ "module": "M490M",
+ "title": "M49OMSTEREO INPUI_MODULE",
+ "source": {
+  "file": "MANUALS/1988 - M490M - P003 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.95,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivity",
+   "key": "input_sensitivity",
+   "text": "+10 dBm (ref. 600 ohm source)",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.2 dB from Hz to 20 kHz",
+   "quantities": [
+    {
+     "value": 0.2,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "dB below the nominal operating Level, with the mixing tenuatct Sc: fcr d2 \"n hand\" 20 Hz 20 kHz)",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 1% Hz to 20 kHz 20 dB above the nominal opera ting evel less",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-10 dBm +10 dBm for the nominal output operating Level +21 dBm maxim mum unity gain",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 10,
+     "unit": "dBm"
+    },
+    {
+     "value": 21,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "30,000 ohms, actively balanced",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or less balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Common mode rejection ratio",
+   "key": "common_mode_rejection_ratio",
+   "text": "Greater than 50 dB 30 Hz to 15 kHz",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Common mode voltage",
+   "key": "common_mode_voltage",
+   "text": "50 volts peak maximum",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "volts"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "dBm nominal equiva ent voltage into summing networks +25 dBm maximum equivalent voltage.",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "30,000 ohms actively balanced for program circuits_ 60,O00 ohms actively balanced for cue circuits.",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    },
+    {
+     "value": 0,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "Less than 0.5 ohm current summing nodes.",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separations",
+   "key": "channel_separations",
+   "text": "55 dB from 30 Hz Input and Output terminals designated by numbers are in phase, lower number numbered Pair phase with lower number other numbered pairs",
+   "quantities": [
+    {
+     "value": 55,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+/-25 volts dc 75 MA.",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc",
+     "tolerance": true
+    },
+    {
+     "value": 75,
+     "unit": "MA"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1988 - M490M - P004 - 1-2.jpg",
+   "page": 1
+  }
+ ]
+}
