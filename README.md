@@ -1,16 +1,16 @@
-# M490M · Input Pre Amps
+# M490M Stereo Input Module · Input Pre Amps
 
 Ward-Beck Systems M490M, 1988|21. Wiki page: [M490M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490M.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 299 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 37 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 300 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 47 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -220,15 +220,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Shared privately on Google Drive (opens after sign-in): [1988|21 · 490-04-026 - STEREO INPUT MODULE MODULE LAYOUT (2)](https://drive.google.com/file/d/0B0yR0b5T78SKRjl4TFRDREh1ZEE/view?resourcekey=0-NJhrcyUvvtDzDSoRVxJUCA) · [1988|21 · 490-04-026 - SWI DSI](https://drive.google.com/file/d/0B0yR0b5T78SKMnpvX0VsR0hMclk/view?resourcekey=0-GskccCE7cmQkpasWlqblzA)
 
-## 3-D model
-
-[`MECHANICAL/M490M.stl`](MECHANICAL/M490M.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490M)
-
-- **Size:** 68.44 × 419.93 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 13 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M490M - front panel.svg`)
-- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M490M.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -306,6 +297,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1988 - M490M - Stereo Input Module p29.kicad_sch](KICAD/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p29.kicad_sch)
 - [1988 - M490M - Stereo Input Module p43.kicad_sch](KICAD/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p43.kicad_sch)
 - [M490M.kicad_sym](KICAD/M490M.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
