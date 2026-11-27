@@ -220,6 +220,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Shared privately on Google Drive (opens after sign-in): [1988|21 · 490-04-026 - STEREO INPUT MODULE MODULE LAYOUT (2)](https://drive.google.com/file/d/0B0yR0b5T78SKRjl4TFRDREh1ZEE/view?resourcekey=0-NJhrcyUvvtDzDSoRVxJUCA) · [1988|21 · 490-04-026 - SWI DSI](https://drive.google.com/file/d/0B0yR0b5T78SKMnpvX0VsR0hMclk/view?resourcekey=0-GskccCE7cmQkpasWlqblzA)
 
+## 3-D model
+
+[`MECHANICAL/M490M.stl`](MECHANICAL/M490M.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490M)
+
+- **Size:** 68.44 × 419.93 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 13 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M490M - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M490M.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
