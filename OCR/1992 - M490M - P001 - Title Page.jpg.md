@@ -1,5 +1,5 @@
 # 1992 - M490M - P001 - Title Page.jpg
-Wiki page: [M490M](../../../../PAGES/M490M.md)
+Wiki page: [M490M](../)
 
 
 - **Year:** 1992 (found in this file: "February 24.1992")

@@ -1,5 +1,5 @@
 # 1988 - M490M - Stereo Input Module (2).pdf
-Wiki page: [M490M](../../../../PAGES/M490M.md)
+Wiki page: [M490M](../)
 
 
 - **Year:** 1988 (module estimate (manual_issue))

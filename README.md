@@ -1,6 +1,6 @@
 # M490M Stereo Input Module · Input Pre Amps
 
-Ward-Beck Systems M490M, 1988|21. Wiki page: [M490M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490M.html)
+Ward-Beck Systems M490M, 1988|21. Wiki page: [M490M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490M-Stereo-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

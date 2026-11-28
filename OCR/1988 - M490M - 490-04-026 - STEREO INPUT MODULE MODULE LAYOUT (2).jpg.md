@@ -1,5 +1,5 @@
 # 1988 - M490M - 490-04-026 - STEREO INPUT MODULE MODULE LAYOUT (2).jpg
-Wiki page: [M490M](../../../../PAGES/M490M.md)
+Wiki page: [M490M](../)
 
 
 - **Year:** 1988 (module estimate (manual_issue))
