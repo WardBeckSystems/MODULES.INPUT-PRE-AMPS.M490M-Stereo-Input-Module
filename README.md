@@ -4,13 +4,11 @@ Ward-Beck Systems M490M, 1988|21. Wiki page: [M490M on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 37 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 300 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 299 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 47 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -220,12 +218,20 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Shared privately on Google Drive (opens after sign-in): [1988|21 · 490-04-026 - STEREO INPUT MODULE MODULE LAYOUT (2)](https://drive.google.com/file/d/0B0yR0b5T78SKRjl4TFRDREh1ZEE/view?resourcekey=0-NJhrcyUvvtDzDSoRVxJUCA) · [1988|21 · 490-04-026 - SWI DSI](https://drive.google.com/file/d/0B0yR0b5T78SKMnpvX0VsR0hMclk/view?resourcekey=0-GskccCE7cmQkpasWlqblzA)
 
+## 3-D model
+
+[`MECHANICAL/M490M.stl`](MECHANICAL/M490M.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490M)
+
+- **Size:** 68.44 × 419.93 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 13 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M490M - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M490M.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVU1Ob2Z2TEtxNlU/view?resourcekey=0-IewfUbiSpzThMwqZ2yQ87A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVU1Ob2Z2TEtxNlU&resourcekey=0-IewfUbiSpzThMwqZ2yQ87A" width="240" alt="1988 - M490M - [DWG 14-120-02-001] - COMMON COMMON SPEC IFIED LAST COMPONENT DESIGNA.jpg"></a><br><sub>1988|21 · 14-120-02-001 - COMMON COMMON SPEC IFIED LAST COMPONENT DESIGNA · <a href="SCHEMATICS/1988%20-%20M490M%20-%20%5BDWG%2014-120-02-001%5D%20-%20COMMON%20COMMON%20SPEC%20IFIED%20LAST%20COMPONENT%20DESIGNA%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZEFTUmZuMFJad2M/view?resourcekey=0-t-HH1lFJtO4CTplL2a-x5Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZEFTUmZuMFJad2M&resourcekey=0-t-HH1lFJtO4CTplL2a-x5Q" width="240" alt="1988 - M490M - [DWG 14-120-02-001] - UNLESS OTHERWISE SPECIFIED IODES ARE.jpg"></a><br><sub>1988|21 · 14-120-02-001 - UNLESS OTHERWISE SPECIFIED IODES ARE · <a href="SCHEMATICS/1988%20-%20M490M%20-%20%5BDWG%2014-120-02-001%5D%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20IODES%20ARE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNUhOOV9Bd1lDeDQ/view?resourcekey=0--1zxF3oahF9jIqiu_yT6ng" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNUhOOV9Bd1lDeDQ&resourcekey=0--1zxF3oahF9jIqiu_yT6ng" width="240" alt="1988 - M490M - [DWG 14-120-06-001] - STEREO PREAMPLIFIER COMPONENT LAYOUT.jpg"></a><br><sub>1988|21 · 14-120-06-001 - STEREO PREAMPLIFIER COMPONENT LAYOUT · <a href="SCHEMATICS/1988%20-%20M490M%20-%20%5BDWG%2014-120-06-001%5D%20-%20STEREO%20PREAMPLIFIER%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUjJId2t1N1RWLUE/view?resourcekey=0-gvKg2sZm4MwTgO1RP0yc0Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUjJId2t1N1RWLUE&resourcekey=0-gvKg2sZm4MwTgO1RP0yc0Q" width="240" alt="1988 - M490M - 490-01-013 - OFFA ON-START TIMER RESET OFF TALLY OFF.jpg"></a><br><sub>1988|21 · 490-01-013 - OFFA ON-START TIMER RESET OFF TALLY OFF · <a href="SCHEMATICS/1988%20-%20M490M%20-%20490-01-013%20-%20OFFA%20ON-START%20TIMER%20RESET%20OFF%20TALLY%20OFF%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU3h2ZnlEMkhyd00/view?resourcekey=0-2rxK2Fy-k9lWTFGEHQedGw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU3h2ZnlEMkhyd00&resourcekey=0-2rxK2Fy-k9lWTFGEHQedGw" width="240" alt="1988 - M490M - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL.jpg"></a><br><sub>1988|21 · 490-01-013 - STEREO INPUT MODULE FUNCTIONAL · <a href="SCHEMATICS/1988%20-%20M490M%20-%20490-01-013%20-%20STEREO%20INPUT%20MODULE%20FUNCTIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVWpBYXpOR2JZSjA/view?resourcekey=0-s0E5JPu9do6GiEe047CAIA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVWpBYXpOR2JZSjA&resourcekey=0-s0E5JPu9do6GiEe047CAIA" width="240" alt="1988 - M490M - 490-02-013 - CRIZ OFF EXT.jpg"></a><br><sub>1988|21 · 490-02-013 - CRIZ OFF EXT · <a href="SCHEMATICS/1988%20-%20M490M%20-%20490-02-013%20-%20CRIZ%20OFF%20EXT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb1F6UEdneGpGZ1U/view?resourcekey=0-T2qmPnNMEyucMpEG6kYToQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb1F6UEdneGpGZ1U&resourcekey=0-T2qmPnNMEyucMpEG6kYToQ" width="240" alt="1988 - M490M - 490-02-013 - LAST COMPONENT DESICMAT IONS.jpg"></a><br><sub>1988|21 · 490-02-013 - LAST COMPONENT DESICMAT IONS · <a href="SCHEMATICS/1988%20-%20M490M%20-%20490-02-013%20-%20LAST%20COMPONENT%20DESICMAT%20IONS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYU1GUEtJRGR6QTg/view?resourcekey=0-k9izlxNw2kh8qSSKxwGEbQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYU1GUEtJRGR6QTg&resourcekey=0-k9izlxNw2kh8qSSKxwGEbQ" width="240" alt="1988 - M490M - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT.jpg"></a><br><sub>1988|21 · 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/1988%20-%20M490M%20-%20490-06-023%20-%20STEREO%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVUM3Tjl4cnh1Tkk/view?resourcekey=0-Kq01xbZNN4U-8lsdk5Iprg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVUM3Tjl4cnh1Tkk&resourcekey=0-Kq01xbZNN4U-8lsdk5Iprg" width="240" alt="1988 - M490M - 490-06-023.jpg"></a><br><sub>1988|21 · 490-06-023 · <a href="SCHEMATICS/1988%20-%20M490M%20-%20490-06-023%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
@@ -233,8 +239,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M490M - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -286,18 +290,17 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
-- [1988 - M490M - [DWG 14-120-02-001] - COMMON COMMON SPEC IFIED LAST COMPONENT DESIGNA.kicad_sch](KICAD/1988%20-%20M490M%20-%20%5BDWG%2014-120-02-001%5D%20-%20COMMON%20COMMON%20SPEC%20IFIED%20LAST%20COMPONENT%20DESIGNA.kicad_sch)
-- [1988 - M490M - [DWG 14-120-02-001] - UNLESS OTHERWISE SPECIFIED IODES ARE.kicad_sch](KICAD/1988%20-%20M490M%20-%20%5BDWG%2014-120-02-001%5D%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20IODES%20ARE.kicad_sch)
 - [1988 - M490M - 490-01-013 - OFFA ON-START TIMER RESET OFF TALLY OFF.kicad_sch](KICAD/1988%20-%20M490M%20-%20490-01-013%20-%20OFFA%20ON-START%20TIMER%20RESET%20OFF%20TALLY%20OFF.kicad_sch)
 - [1988 - M490M - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL.kicad_sch](KICAD/1988%20-%20M490M%20-%20490-01-013%20-%20STEREO%20INPUT%20MODULE%20FUNCTIONAL.kicad_sch)
 - [1988 - M490M - 490-02-013 - CRIZ OFF EXT.kicad_sch](KICAD/1988%20-%20M490M%20-%20490-02-013%20-%20CRIZ%20OFF%20EXT.kicad_sch)
 - [1988 - M490M - 490-02-013 - LAST COMPONENT DESICMAT IONS.kicad_sch](KICAD/1988%20-%20M490M%20-%20490-02-013%20-%20LAST%20COMPONENT%20DESICMAT%20IONS.kicad_sch)
-- [1988 - M490M - [DWG 14-120-02-001] - Stereo Input Module (2) p43.kicad_sch](KICAD/1988%20-%20M490M%20-%20%5BDWG%2014-120-02-001%5D%20-%20Stereo%20Input%20Module%20(2)%20p43.kicad_sch)
 - [1988 - M490M - Stereo Input Module p27.kicad_sch](KICAD/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p27.kicad_sch)
 - [1988 - M490M - Stereo Input Module p29.kicad_sch](KICAD/1988%20-%20M490M%20-%20Stereo%20Input%20Module%20p29.kicad_sch)
+- [1988 - M490M - [DWG 14-120-02-001] - COMMON COMMON SPEC IFIED LAST COMPONENT DESIGNA.kicad_sch](KICAD/1988%20-%20M490M%20-%20%5BDWG%2014-120-02-001%5D%20-%20COMMON%20COMMON%20SPEC%20IFIED%20LAST%20COMPONENT%20DESIGNA.kicad_sch)
+- [1988 - M490M - [DWG 14-120-02-001] - Stereo Input Module (2) p43.kicad_sch](KICAD/1988%20-%20M490M%20-%20%5BDWG%2014-120-02-001%5D%20-%20Stereo%20Input%20Module%20(2)%20p43.kicad_sch)
 - [1988 - M490M - [DWG 14-120-02-001] - Stereo Input Module p43.kicad_sch](KICAD/1988%20-%20M490M%20-%20%5BDWG%2014-120-02-001%5D%20-%20Stereo%20Input%20Module%20p43.kicad_sch)
+- [1988 - M490M - [DWG 14-120-02-001] - UNLESS OTHERWISE SPECIFIED IODES ARE.kicad_sch](KICAD/1988%20-%20M490M%20-%20%5BDWG%2014-120-02-001%5D%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20IODES%20ARE.kicad_sch)
 - [M490M.kicad_sym](KICAD/M490M.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
