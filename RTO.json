@@ -7,206 +7,6 @@
  "verified": null,
  "derived": false,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "1",
-   "signal": "LEFT PGRM 1",
-   "kind": "audio",
-   "pair": "A3",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "1",
-   "signal": "MIC IN A",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "LEFT PGRM 1",
-   "kind": "audio",
-   "pair": "A3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module (2).pdf",
-   "page": 31
-  },
-  {
-   "pin": "3",
-   "signal": "RIGHT PGRM 1",
-   "kind": "audio",
-   "pair": "A4",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "MIC IN B",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "RIGHT PGRM 1",
-   "kind": "audio",
-   "pair": "A4",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "INSERT SEND",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "-25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "+25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490M/MECHANICAL/1988 - M490M - 490-04-026 - SWI DSI.jpg",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490M/MECHANICAL/1988 - M490M - 490-04-026 - SWI DSI.jpg",
-   "page": 1
-  },
-  {
-   "pin": "A",
-   "signal": "MIC IN A",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "C",
-   "signal": "MIC IN B",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "F",
-   "signal": "INSERT SEND",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "H",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490M/M490M.rto144.json",
-   "page": 1
-  }
- ],
  "straps": [
   {
    "function": "Insert",
@@ -245,5 +45,130 @@
   "Engineering/RTO-144/M490M/M490M.rto144.json",
   "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module (2).pdf",
   "Modules/INPUT-PRE-AMPS/M490M/MECHANICAL/1988 - M490M - 490-04-026 - SWI DSI.jpg"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "signal": "Left PGRM 1",
+   "kind": "out",
+   "port": "A3",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "signal": "Left PGRM 1",
+   "kind": "out",
+   "port": "A3",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "signal": "Right PGRM 1",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "signal": "Right PGRM 1",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "1",
+   "signal": "Mic in A",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "signal": "Mic in B",
+   "kind": "in",
+   "port": "A2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "signal": "Insert Send",
+   "kind": "insert_send",
+   "port": "B1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "7",
+   "signal": "Insert Return",
+   "kind": "insert_return",
+   "port": "B2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "signal": "VEE-AUDIO -25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "signal": "VCC-AUDIO +25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "A",
+   "signal": "Mic in A",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "C",
+   "signal": "Mic in B",
+   "kind": "in",
+   "port": "A2",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "F",
+   "signal": "Insert Send",
+   "kind": "insert_send",
+   "port": "B1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "H",
+   "signal": "Insert Return",
+   "kind": "insert_return",
+   "port": "B2",
+   "polarity": "-"
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/RTO-144/M490M/M490M.rto144.json"
+ }
 }
